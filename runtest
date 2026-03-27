@@ -10,4 +10,3 @@ DATABASE_URL=postgresql+psycopg2://postgres:6530200193@localhost:5433/postgres
 JWT_SECRET=change_me_now
 CORS_ORIGINS=http://localhost:3000,http://localhost:5173
 DISABLE_MODEL_SOURCE_CHECK=True
-OPENAI_API_KEY=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
